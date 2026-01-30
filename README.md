@@ -53,7 +53,7 @@ git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/ma
 
 | Link | GitHub |
 | ---- | ------ |
-| [note-about-wayland](https://samwhelp.github.io/note-about-wayland/) |
+| [note-about-wayland](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
 
 
 
