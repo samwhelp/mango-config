@@ -24,3 +24,17 @@ git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/ma
 
 
 ## Some Common Default Keybindings
+
+
+
+
+## Config File
+
+| Config File |
+| ----------- |
+| [config.conf](config.conf) |
+| [env.conf](env.conf) |
+| [bind.conf](bind.conf) |
+| [rule.conf](rule.conf) |
+| [monitor.conf](monitor.conf) |
+| [tag.conf](tag.conf) |
