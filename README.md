@@ -31,7 +31,7 @@
 | Mango |
 | ----- |
 | GitHub / [mangowc](https://github.com/DreamMaoMao/mangowc) |
-| GitHub / [mango-config]https://github.com/DreamMaoMao/mango-config) |
+| GitHub / [mango-config](https://github.com/DreamMaoMao/mango-config) |
 
 
 
