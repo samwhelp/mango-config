@@ -4,7 +4,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [mango-config](https://samwhelp.github.io/mango-config/) | [GitHub](https://github.com/samwhelp/mango-config) |
+| [mango-config](https://samwhelp.github.io/mango-config/) | [GitHub](https://github.com/samwhelp/mango-config/tree/mykeybind) |
 
 
 
