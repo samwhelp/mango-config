@@ -35,12 +35,16 @@
 
 
 
+
 ## Usage
 
+run to install mangowc
 
-### clone
+``` sh
+yay -Sy --needed mangowc-git
+```
 
-run
+run to install mango-config to ~/.config/mango
 
 ``` sh
 git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/mango
