@@ -19,7 +19,7 @@ yay -S rofi foot xdg-desktop-portal-wlr swaybg waybar wl-clip-persist cliphist w
 ## Usage
 
 ```bash
-git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/mango-test
+git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/mango
 ```
 
 
