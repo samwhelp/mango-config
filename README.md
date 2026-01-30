@@ -26,7 +26,7 @@ run to install mangowc
 yay -Sy --needed mangowc-git
 ```
 
-run to install mango-config
+run to install mango-config to ~/.config/mango
 
 ``` sh
 git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/mango
