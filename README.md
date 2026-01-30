@@ -38,3 +38,4 @@ git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/ma
 | [rule.conf](rule.conf) |
 | [monitor.conf](monitor.conf) |
 | [tag.conf](tag.conf) |
+| [autostart.sh](autostart.sh) |
