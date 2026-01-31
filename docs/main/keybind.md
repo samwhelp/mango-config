@@ -24,13 +24,13 @@
 
 | Config File |
 | ----------- |
-| [~/.config/mango/config.conf]() |
-| [~/.config/mango/env.conf]() |
-| [~/.config/mango/bind.conf]() |
-| [~/.config/mango/rule.conf]() |
-| [~/.config/mango/monitor.conf]() |
-| [~/.config/mango/tag.conf]() |
-| [~/.config/mango/autostart.sh]() |
+| [~/.config/mango/config.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/config.conf) |
+| [~/.config/mango/env.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/env.conf) |
+| [~/.config/mango/bind.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/bind.conf) |
+| [~/.config/mango/rule.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/rule.conf) |
+| [~/.config/mango/monitor.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/monitor.conf) |
+| [~/.config/mango/tag.conf](https://github.com/samwhelp/mango-config/blob/mykeybind/tag.conf) |
+| [~/.config/mango/autostart.sh](https://github.com/samwhelp/mango-config/blob/mykeybind/autostart.sh) |
 
 
 
