@@ -156,6 +156,10 @@
 | `Super + Escape`           | Window Toggle Floating      | `togglefloating                       |
 | `Alt + backslash`          | Window Toggle Floating      | `togglefloating                       |
 
+| Mousebind                  | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
+| `Super + MiddleClick`      | Window Toggle Floating      | `togglefloating                       |
+
 
 ### Window / Focus
 
