@@ -186,15 +186,6 @@
 
 > grave means `
 
-
-| Keybind                    | Action                      | Command                               |
-| -------------------------- | --------------------------- | ------------------------------------- |
-| `Super + Shift + Up`       | Window Swap Prev            | `exchange_client,up`                  |
-| `Super + Shift + Down`     | Window Swap Next            | `exchange_client,down`                |
-| `Super + Shift + Left`     | Window Swap Prev            | `exchange_client,left`                |
-| `Super + Shift + Right`    | Window Swap Next            | `exchange_client,right`               |
-
-
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
 | `Super + Shift + k`        | Window Swap Prev            | `exchange_client,up`                  |
