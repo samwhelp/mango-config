@@ -13,6 +13,7 @@
 * [Application](#application)
 * [Window](#window)
 * [Layout](#layout)
+* [Tag](#tag)
 * [Screenshot](#screenshot)
 * [Brightness](#brightness)
 * [Volume](#volume)
@@ -202,7 +203,7 @@
 
 ## Layout
 
-### Layout / Switch
+### Layout / Switch / Cycle
 
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
@@ -210,20 +211,16 @@
 | `Super + c`                | Layout Switch Next          | `switch_layout,next`                  |
 
 
-| Keybind                    | Action                      | Command                               |
-| -------------------------- | --------------------------- | ------------------------------------- |
-| `Super + Shift + n`        | Layout Switch Prev          | `switch_layout,prev`                  |
-| `Super + n`                | Layout Switch Next          | `switch_layout,next`                  |
-
-
-### Layout / Spec
+### Layout / Switch / Specific
 
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
-| `Super + Alt + t`          | Layout Switch Tile          | `setlayout,tile`                      |
-| `Super + Alt + s`          | Layout Switch Scroller      | `setlayout,scroller`                  |
-| `Super + Alt + m`          | Layout Switch Monocle       | `setlayout,monocle`                   |
-| `Super + Alt + g`          | Layout Switch Grid          | `setlayout,grid`                      |
+| `Super + Alt + t`          | Layout Switch To Tile       | `setlayout,tile`                      |
+| `Super + Alt + s`          | Layout Switch To Scroller   | `setlayout,scroller`                  |
+| `Super + Alt + m`          | Layout Switch To Monocle    | `setlayout,monocle`                   |
+| `Super + Alt + g`          | Layout Switch To Grid       | `setlayout,grid`                      |
+| `Super + Alt + c`          | Layout Switch To Grid       | `setlayout,center_tile`               |
+| `Super + Alt + r`          | Layout Switch To Grid       | `setlayout,right_tile`                |
 
 
 
