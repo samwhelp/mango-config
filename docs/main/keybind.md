@@ -223,6 +223,13 @@
 | `Super + Alt + r`          | Layout Switch To Grid       | `setlayout,right_tile`                |
 
 
+### Layout / On Tile
+
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
+| `Super + d`                | Swap To Mastar              | `zoom`                                |
+| `Super + i`                | Increase Mastar Number      | `incnmaster,1`                        |
+| `Super + u`                | Decrease Mastar Number      | `incnmaster,-1`                       |
 
 
 ## Screenshot
