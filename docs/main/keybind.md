@@ -126,6 +126,8 @@
 
 ### Window / Move
 
+> Switch to floating, and move.
+
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
 | `Super + Shift + Up`       | Window Move                 | `movewin,+0,-50`                      |
@@ -135,6 +137,8 @@
 
 
 ### Window / Resize
+
+> Switch to floating, and resize.
 
 | Keybind                    | Action                      | Command                               |
 | -------------------------- | --------------------------- | ------------------------------------- |
