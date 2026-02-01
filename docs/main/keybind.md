@@ -134,14 +134,6 @@
 | `Super + Shift + Right`    | Window Move                 | `movewin,+50,+0`                      |
 
 
-| Keybind                    | Action                      | Command                               |
-| -------------------------- | --------------------------- | ------------------------------------- |
-| `Super + Shift + k`        | Window Move                 | `movewin,+0,-50`                      |
-| `Super + Shift + j`        | Window Move                 | `movewin,+0,+50`                      |
-| `Super + Shift + h`        | Window Move                 | `movewin,-50,+0`                      |
-| `Super + Shift + l`        | Window Move                 | `movewin,+50,+0`                      |
-
-
 ### Window / Resize
 
 | Keybind                    | Action                      | Command                               |
@@ -150,14 +142,6 @@
 | `Super + Ctrl + Down`      | Window Resize               | `resizewin,+0,+50`                    |
 | `Super + Ctrl + Left`      | Window Resize               | `resizewin,-50,+0`                    |
 | `Super + Ctrl + Right`     | Window Resize               | `resizewin,+50,+0"`                   |
-
-
-| Keybind                    | Action                      | Command                               |
-| -------------------------- | --------------------------- | ------------------------------------- |
-| `Super + Ctrl + k`         | Window Resize               | `resizewin,+0,-50`                    |
-| `Super + Ctrl + j`         | Window Resize               | `resizewin,+0,+50`                    |
-| `Super + Ctrl + h`         | Window Resize               | `resizewin,-50,+0`                    |
-| `Super + Ctrl + l`         | Window Resize               | `resizewin,+50,+0`                    |
 
 
 ### Window / Floating or Tiling
