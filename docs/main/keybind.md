@@ -232,6 +232,14 @@
 | `Super + u`                | Decrease Mastar Number      | `incnmaster,-1`                       |
 
 
+### Layout / On Scroller
+
+| Keybind                    | Action                      | Command                               |
+| -------------------------- | --------------------------- | ------------------------------------- |
+| `Super + m`                | Column Scale                | `switch_proportion_preset`            |
+| `Super + Shift + m`        | Column Scale                | `set_proportion,1.0`                  |
+
+
 ## Screenshot
 
 | Keybind                    | Action                      | Command                               |
