@@ -30,7 +30,7 @@
 
 | Mango |
 | ----- |
-| GitHub / [mangowc](https://github.com/DreamMaoMao/mangowc) |
+| GitHub / [mangowm](https://github.com/mangowm/mango) |
 | GitHub / [mango-config](https://github.com/DreamMaoMao/mango-config) |
 
 
@@ -38,10 +38,10 @@
 
 ## Usage
 
-run to install mangowc
+run to install mangowm
 
 ``` sh
-yay -Sy --needed mangowc-git
+yay -Sy --needed mangowm-git
 ```
 
 run to install mango-config to ~/.config/mango
