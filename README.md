@@ -20,10 +20,10 @@ yay -S rofi foot xdg-desktop-portal-wlr swaybg waybar wl-clip-persist cliphist w
 
 ## Usage
 
-run to install mangowc
+run to install mangowm
 
 ``` sh
-yay -Sy --needed mangowc-git
+yay -Sy --needed mangowm-git
 ```
 
 run to install mango-config to ~/.config/mango
