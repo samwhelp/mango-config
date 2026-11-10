@@ -4,7 +4,8 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [mango-config](https://samwhelp.github.io/mango-config/) | [GitHub](https://github.com/samwhelp/mango-config/tree/mykeybind) |
+| [mango-config](https://samwhelp.github.io/mango-config/) | [mykeybind](https://github.com/samwhelp/mango-config/tree/mykeybind) |
+| [mangowm-adjustment](https://samwhelp.github.io/mangowm-adjustment/) | [GitHub](https://github.com/samwhelp/mangowm-adjustment) |
 
 
 
@@ -57,7 +58,7 @@ git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/ma
 
 | Link | GitHub |
 | ---- | ------ |
-| [note-about-wayland](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
+| [wayland-adjustment](https://samwhelp.github.io/wayland-adjustment/) | [GitHub](https://github.com/samwhelp/wayland-adjustment) |
 
 
 
