@@ -58,7 +58,8 @@ git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/ma
 
 | Link | GitHub |
 | ---- | ------ |
-| [wayland-adjustment](https://samwhelp.github.io/wayland-adjustment/) | [GitHub](https://github.com/samwhelp/wayland-adjustment) |
+| [Wayland Adjustment](https://samwhelp.github.io/wayland-adjustment/) | [GitHub](https://github.com/samwhelp/wayland-adjustment) |
+| [Wayland Note](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
 
 
 
