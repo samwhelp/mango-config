@@ -51,28 +51,32 @@
 
 ## Usage
 
+* [install mango](#install-mango)
+* [use branch mykeybind](#use-branch-mykeybind)
+* [use branch layer](#use-branch-layer)
 
-* install mango
 
-run to install mangowm
+### install mango
+
+run to install [mango](https://github.com/mangowm/mango)
 
 ``` sh
 yay -Sy --needed mangowm-git
 ```
 
 
-* use [branch mykeybind](https://github.com/samwhelp/mango-config/tree/mykeybind)
+### use branch mykeybind
 
-run to install mango-config to ~/.config/mango
+run to install [mango-config](https://github.com/samwhelp/mango-config/tree/mykeybind) to `~/.config/mango`
 
 ``` sh
 git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/mango
 ```
 
 
-* use [branch layer](https://github.com/samwhelp/mango-config/tree/layer)
+### use branch layer
 
-run to install mango-config to ~/.config/mango
+run to install [mango-config]((https://github.com/samwhelp/mango-config/tree/layer)) to `~/.config/mango`
 
 ``` sh
 git clone -b layer https://github.com/samwhelp/mango-config.git ~/.config/mango
