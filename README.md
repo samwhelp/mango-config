@@ -13,6 +13,7 @@
 ## Subject
 
 * [Notice](#notice)
+* [Branch](#branch)
 * [Mango](#mango)
 * [Usage](#usage)
 * [Docs](https://github.com/samwhelp/mango-config/tree/main/docs)
@@ -27,11 +28,22 @@
 
 
 
+
+## Branch
+
+| Branch |
+| ------ |
+| [mykeybind](https://github.com/samwhelp/mango-config/tree/mykeybind) |
+| [layer](https://github.com/samwhelp/mango-config/tree/layer) |
+
+
+
+
 ## Mango
 
 | Mango |
 | ----- |
-| GitHub / [mangowm](https://github.com/mangowm/mango) |
+| GitHub / mangowm / [mango](https://github.com/mangowm/mango) |
 | GitHub / [mango-config](https://github.com/DreamMaoMao/mango-config) |
 
 
@@ -39,16 +51,31 @@
 
 ## Usage
 
+
+* install mango
+
 run to install mangowm
 
 ``` sh
 yay -Sy --needed mangowm-git
 ```
 
+
+* use [branch mykeybind](https://github.com/samwhelp/mango-config/tree/mykeybind)
+
 run to install mango-config to ~/.config/mango
 
 ``` sh
 git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/mango
+```
+
+
+* use [branch layer](https://github.com/samwhelp/mango-config/tree/layer)
+
+run to install mango-config to ~/.config/mango
+
+``` sh
+git clone -b layer https://github.com/samwhelp/mango-config.git ~/.config/mango
 ```
 
 
