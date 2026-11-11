@@ -50,7 +50,7 @@ nm-applet >/dev/null 2>&1 &
 #/usr/lib/xfce-polkit/xfce-polkit >/dev/null 2>&1 &
 
 ## sudo pacman -S polkit-gnome
-/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 >/dev/null 2>&1 &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 >/dev/null 2>&1 &
 
 
 # inhibit by audio
