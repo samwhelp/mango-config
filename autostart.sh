@@ -1,5 +1,10 @@
-#!/bin/bash
-# 自启动脚本 仅作参考
+#!/usr/bin/env bash
+
+
+##
+## # Autostart
+##
+
 
 set +e
 
@@ -10,16 +15,16 @@ systemctl --user restart xdg-desktop-portal &
 /usr/lib/xdg-desktop-portal-wlr  >/dev/null 2>&1 &
 
 # notify
-swaync -c ~/.config/mango/swaync/config.jsonc -s ~/.config/mango/swaync/style.css >/dev/null 2>&1 &
+swaync -c ~/.config/mango/helper/share/swaync/config.jsonc -s ~/.config/mango/helper/share/swaync/style.css >/dev/null 2>&1 &
 
 # night light
 wlsunset -T 3501 -t 3500 >/dev/null 2>&1 &
 
 # wallpaper
-swaybg -i ~/.config/mango/wallpaper/wallpaper.png >/dev/null 2>&1 &
+swaybg -i ~/.config/mango/helper/share/wallpaper/wallpaper.png >/dev/null 2>&1 &
 
 # top bar
-mangobar -c ~/.config/mango/mangobar/config.jsonc -s ~/.config/mango/mangobar/style.css 2>&1 &
+mangobar -c ~/.config/mango/helper/share/mangobar/config.jsonc -s ~/.config/mango/helper/share/mangobar/style.css 2>&1 &
 
 # xwayland dpi scale
 echo "Xft.dpi: 140" | xrdb -merge #dpi缩放
@@ -41,7 +46,12 @@ blueman-applet >/dev/null 2>&1 &
 nm-applet >/dev/null 2>&1 &
 
 # Permission authentication
-/usr/lib/xfce-polkit/xfce-polkit >/dev/null 2>&1 &
+## yay -S xfce-polkit
+#/usr/lib/xfce-polkit/xfce-polkit >/dev/null 2>&1 &
+
+## sudo pacman -S polkit-gnome
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 >/dev/null 2>&1 &
+
 
 # inhibit by audio
 sway-audio-idle-inhibit >/dev/null 2>&1 &

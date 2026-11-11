@@ -1,11 +1,13 @@
+#!/usr/bin/env bash
+
 case $1 in
-    up)
+	up)
 		swayosd-client --output-volume 5
 	;;
-    down)
+	down)
 		swayosd-client --output-volume -5
 	;;
-    mute)
-    swayosd-client --output-volume mute-toggle
+	mute)
+	swayosd-client --output-volume mute-toggle
 	;;
 esac
