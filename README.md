@@ -76,7 +76,7 @@ git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/ma
 
 ### use branch layer
 
-run to install [mango-config]((https://github.com/samwhelp/mango-config/tree/layer)) to `~/.config/mango`
+run to install [mango-config](https://github.com/samwhelp/mango-config/tree/layer) to `~/.config/mango`
 
 ``` sh
 git clone -b layer https://github.com/samwhelp/mango-config.git ~/.config/mango
