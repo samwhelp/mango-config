@@ -1,5 +1,10 @@
-#!/bin/bash
-# 自启动脚本 仅作参考
+#!/usr/bin/env bash
+
+
+##
+## # Autostart
+##
+
 
 set +e
 
