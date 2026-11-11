@@ -16,6 +16,7 @@
 * [Dependence](#dependence)
 * [Usage](#usage)
 * [Config File](#config-file)
+* [Keybind](https://samwhelp.github.io/mangowm-adjustment/read/cheatsheet/keybind.html)
 * [Link](#link)
 
 
@@ -73,11 +74,6 @@ run to install [mango-config](https://github.com/samwhelp/mango-config/tree/laye
 ``` sh
 git clone -b layer https://github.com/samwhelp/mango-config.git ~/.config/mango
 ```
-
-
-
-
-## Some Common Default Keybindings
 
 
 
