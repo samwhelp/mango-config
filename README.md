@@ -16,6 +16,7 @@
 * [Branch](#branch)
 * [Mango](#mango)
 * [Usage](#usage)
+* [Keybind](https://samwhelp.github.io/mangowm-adjustment/read/cheatsheet/keybind.html)
 * [Docs](https://github.com/samwhelp/mango-config/tree/main/docs)
 * [Link](#link)
 
