@@ -35,6 +35,7 @@
 | ------ |
 | [mykeybind](https://github.com/samwhelp/mango-config/tree/mykeybind) |
 | [layer](https://github.com/samwhelp/mango-config/tree/layer) |
+| [port](https://github.com/samwhelp/mango-config/tree/port) |
 
 
 
@@ -54,6 +55,7 @@
 * [install mango](#install-mango)
 * [use branch mykeybind](#use-branch-mykeybind)
 * [use branch layer](#use-branch-layer)
+* [use branch port](#use-branch-port)
 
 
 ### install mango
@@ -80,6 +82,15 @@ run to install [mango-config](https://github.com/samwhelp/mango-config/tree/laye
 
 ``` sh
 git clone -b layer https://github.com/samwhelp/mango-config.git ~/.config/mango
+```
+
+
+### use branch port
+
+run to install [mango-config](https://github.com/samwhelp/mango-config/tree/port) to `~/.config/mango`
+
+``` sh
+git clone -b port https://github.com/samwhelp/mango-config.git ~/.config/mango
 ```
 
 
