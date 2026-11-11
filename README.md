@@ -44,6 +44,7 @@
 
 | Mango |
 | ----- |
+| [mangowm](https://mangowm.github.io/) |
 | GitHub / mangowm / [mango](https://github.com/mangowm/mango) |
 | GitHub / [mango-config](https://github.com/DreamMaoMao/mango-config) |
 
@@ -52,15 +53,28 @@
 
 ## Usage
 
-* [install mango](#install-mango)
+* [install mango from arch package](#install-mango-from-arch-package)
+* [install mango from aur](#install-mango-from-aur)
 * [use branch mykeybind](#use-branch-mykeybind)
 * [use branch layer](#use-branch-layer)
 * [use branch port](#use-branch-port)
 
 
-### install mango
+### install mango from arch package
 
-run to install [mango](https://github.com/mangowm/mango)
+* Arch Wiki / [MangoWM](https://wiki.archlinux.org/title/MangoWM)
+* Repology / [mangowm](https://repology.org/project/mangowm/versions)
+
+run to install [mangowm](https://archlinux.org/packages/extra/x86_64/mangowm/)
+
+``` sh
+sudo pacman -Sy --needed mangowm
+```
+
+
+### install mango from aur
+
+run to install [mangowm-git](https://aur.archlinux.org/packages/mangowm-git)
 
 ``` sh
 yay -Sy --needed mangowm-git
