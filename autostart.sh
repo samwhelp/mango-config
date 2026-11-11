@@ -46,7 +46,12 @@ blueman-applet >/dev/null 2>&1 &
 nm-applet >/dev/null 2>&1 &
 
 # Permission authentication
-/usr/lib/xfce-polkit/xfce-polkit >/dev/null 2>&1 &
+## yay -S xfce-polkit
+#/usr/lib/xfce-polkit/xfce-polkit >/dev/null 2>&1 &
+
+## sudo pacman -S polkit-gnome
+/usr/lib/mate-polkit/polkit-mate-authentication-agent-1 >/dev/null 2>&1 &
+
 
 # inhibit by audio
 sway-audio-idle-inhibit >/dev/null 2>&1 &
