@@ -18,7 +18,7 @@ systemctl --user restart xdg-desktop-portal &
 swaync -c ~/.config/mango/helper/share/swaync/config.jsonc -s ~/.config/mango/helper/share/swaync/style.css >/dev/null 2>&1 &
 
 # night light
-wlsunset -T 3501 -t 3500 >/dev/null 2>&1 &
+#wlsunset -T 3501 -t 3500 >/dev/null 2>&1 &
 
 # wallpaper
 swaybg -i ~/.config/mango/helper/share/wallpaper/wallpaper.png >/dev/null 2>&1 &
