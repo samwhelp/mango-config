@@ -32,7 +32,7 @@ sudo pacman -Sy
 run to install dependence packages
 
 ``` sh
-yay -S rofi foot xdg-desktop-portal-wlr swaybg mangobar-git wl-clip-persist cliphist wl-clipboard wlsunset xfce-polkit swaync pamixer swayidle dimland-git brightnessctl swayosd wlr-randr grim slurp satty swaylock-effects-git wlogout sox gpu-screen-recorder
+yay -S rofi foot xdg-desktop-portal-wlr swaybg mangobar-git wl-clip-persist cliphist wl-clipboard wlsunset polkit-gnome swaync pamixer swayidle dimland-git brightnessctl swayosd wlr-randr grim slurp satty swaylock-effects-git wlogout sox gpu-screen-recorder
 ```
 
 
