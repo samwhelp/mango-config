@@ -40,13 +40,35 @@ yay -S rofi foot xdg-desktop-portal-wlr swaybg mangobar-git wl-clip-persist clip
 
 ## Usage
 
-run to install mangowm
+* [install mango from arch package](#install-mango-from-arch-package)
+* [install mango from aur](#install-mango-from-aur)
+* [use branch mykeybind](#use-branch-mykeybind)
+
+
+### install mango from arch package
+
+* Arch Wiki / [MangoWM](https://wiki.archlinux.org/title/MangoWM)
+* Repology / [mangowm](https://repology.org/project/mangowm/versions)
+
+run to install [mangowm](https://archlinux.org/packages/extra/x86_64/mangowm/)
+
+``` sh
+sudo pacman -Sy --needed mangowm
+```
+
+
+### install mango from aur
+
+run to install [mangowm-git](https://aur.archlinux.org/packages/mangowm-git)
 
 ``` sh
 yay -Sy --needed mangowm-git
 ```
 
-run to install mango-config to ~/.config/mango
+
+### use branch mykeybind
+
+run to install [mango-config](https://github.com/samwhelp/mango-config/tree/mykeybind) to `~/.config/mango`
 
 ``` sh
 git clone -b mykeybind https://github.com/samwhelp/mango-config.git ~/.config/mango
